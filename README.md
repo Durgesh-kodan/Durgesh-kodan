@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/zpaxev0mwjc41.jpg)](https://github.com/Durgesh-kodan)
+![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Durgesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
