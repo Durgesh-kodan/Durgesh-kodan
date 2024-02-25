@@ -85,6 +85,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh-kodan&theme=tokyonight" alt="durgesh-kodan" /></p>
 
+
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh-kodan&theme=tokyonight)
 
+<!-- activity graph heroku-app start -->
+<p align="left">
+    <a href="https://ossinsight.io/analyze/tsirysndr">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh-kodan&theme=nightowl&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end  -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=durgesh-kodan/Portfolio&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=durgesh-kodan/Portfolio&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=durgesh-kodan/Portfolio&type=Date" />
+</picture>
+-->
 
