@@ -86,7 +86,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh-kodan&theme=tokyonight" alt="durgesh-kodan" /></p>
 
 
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh-kodan&theme=tokyonight)
+<!--![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh-kodan&theme=tokyonight)-->
 
 <!-- activity graph heroku-app start -->
 <p align="left">
