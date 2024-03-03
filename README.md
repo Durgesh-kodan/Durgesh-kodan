@@ -6,16 +6,16 @@
 <img align="right" alt="Coding" width="350" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB3cDduNDJ6dWVsY3pydW5wZml1eGEyZGM2ZWJyY20zenhyam95diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-kodan&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-kodan" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack CI/CD AWS Docker**
+- 🌱 I’m currently learning **MERN & CI/CD**
 
-- 💬 Ask me about **my favourite movie**
+- 💬 Ask me about **My Favourite Movie**
 
 - 📫 How to reach me **durgeshkodan101@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/durgesh-kodan-a70302204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-kodan-a70302204" height="30" width="40" /></a>
-<a href="https://instagram.com/durgesh_kodan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgesh_kodan" height="30" width="40" /></a>
+<a href="https://instagram.com/durgeshkodan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgesh_kodan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
