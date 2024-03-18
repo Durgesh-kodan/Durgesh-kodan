@@ -78,6 +78,9 @@
   </a> 
 </p>
 
+<details>
+ <summary><kbd>more info</kbd></summary>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgesh-kodan&show_icons=true&locale=en&langs_count=8&theme=tokyonight" alt="durgesh-kodan" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=durgesh-kodan&show_icons=true&locale=en&theme=tokyonight" alt="durgesh-kodan" /></p>
@@ -94,7 +97,10 @@
     </a>
 </p>
 
+<p align="center">My Current arch setup</p>
+
 ![currentrice](rice.png)
+</details>
 
 <!-- activity graph heroku-app end  -->
 <!--
