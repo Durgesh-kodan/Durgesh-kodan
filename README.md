@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img align="right" alt="Coding" width="350" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB3cDduNDJ6dWVsY3pydW5wZml1eGEyZGM2ZWJyY20zenhyam95diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-kodan&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-kodan" /> </p>
 
 - 🌱 I’m currently learning **MERN & CI/CD**
@@ -94,6 +93,9 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh-kodan&theme=nightowl&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+![currentrice](rice.png)
+
 <!-- activity graph heroku-app end  -->
 <!--
 <picture>
