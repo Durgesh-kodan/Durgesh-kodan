@@ -1,5 +1,4 @@
 ![gitartwork](gitartwork.svg)
- huenhuenhuen
 <h1 align="center">Hi 👋, I'm Durgesh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
